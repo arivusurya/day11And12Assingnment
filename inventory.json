@@ -1,0 +1,31 @@
+{
+"TypesOfRice": [
+    {
+      "name": "Basumathi",
+      "weight": 3,
+      "price": 60
+    },{
+        "name" : "Rice1",
+        "weight":6,
+        "price":60
+    },
+    {
+        "name" : "Rice2",
+        "weight":4,
+        "price":120
+    }
+],
+"TypesOfpulses":[{
+    "name":"pulse1",
+    "weight": 4,
+    "price":124
+}
+],
+"typesOfWheat":[
+    {
+        "name":"wheat1",
+        "weight":7,
+        "price": 432
+    }
+]
+}
