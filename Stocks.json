@@ -1,0 +1,15 @@
+{
+    "Stocks":[
+        {
+            "Name":"Apple",
+            "noOfShares":20000,
+            "price":50
+
+        },
+        {
+            "Name":"Samsung",
+            "noOfShares":10000,
+            "price":30
+        }
+    ]
+}
